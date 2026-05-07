@@ -4,5 +4,5 @@ I am a first-year Data Science MSc student at the IT University of Copenhagen, w
 
 Languages & Libraries: Python (Pandas, NumPy, PyTorch, Scikit-learn), SQL, HTML/CSS
 
-Tools & Architecture: Docker, Power BI, BPMN, Excel
+Tools & Architecture: Power BI, BPMN, Excel
 
